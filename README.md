@@ -32,7 +32,7 @@ This repository contains the source code for Saurav Chanderiya's personal portfo
 
 - Email: sauravsingg306@gmail.com
 - LinkedIn: [linkedin.com/in/saurav-chanderiya-37b131353](https://www.linkedin.com/in/saurav-chanderiya-37b131353)
-- GitHub: [github.com/Saurav306](https://github.com/Saurav306)
+- GitHub: [github.com/hackerJI6623](https://github.com/hackerJI6623)
 
 ---
 
