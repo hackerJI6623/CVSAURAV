@@ -31,7 +31,7 @@ This repository contains the source code for Saurav Chanderiya's personal portfo
 ## Contact
 
 - Email: sauravsingg306@gmail.com
-- LinkedIn: [linkedin.com/in/saurav-chanderiya-306](https://www.linkedin.com/in/saurav-chanderiya-306/)
+- LinkedIn: [linkedin.com/in/saurav-chanderiya-37b131353](https://www.linkedin.com/in/saurav-chanderiya-37b131353)
 - GitHub: [github.com/Saurav306](https://github.com/Saurav306)
 
 ---
