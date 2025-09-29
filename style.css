@@ -422,6 +422,31 @@ p {
   form {
     max-width: 100%;
   }
+
+  /* Profile image smaller and less margin */
+  .profile-img {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto 1rem auto;
+    border-width: 3px;
+  }
+
+  /* Header and logo smaller, more compact */
+  header {
+    padding: 0.7rem 1rem;
+  }
+  .logo {
+    font-size: 1.1rem;
+  }
+  nav {
+    gap: 0.5rem;
+  }
+  .nav-links {
+    gap: 0.5rem;
+  }
+  .nav-links a {
+    font-size: 0.95rem;
+  }
 }
 
 .plain-text {
